@@ -10,6 +10,7 @@ MENTOR : Neela Santhosh Kumar
 # OVERVIEW OF PROJECT 
 PROJECT : TO -DO LIST WEB APPLICATION
 
+
 To-Do List Web Application
 Overview
 This project is a sleek, user-friendly to-do list web application designed with HTML, CSS, and JavaScript. It allows users to seamlessly add and delete tasks, making task management simple and efficient.
@@ -35,3 +36,9 @@ Click the delete button next to each task to remove it.
 
 Contribution
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue to discuss what you would like to change.
+
+
+
+#OUTPUT 
+
+
